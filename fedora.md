@@ -26,4 +26,4 @@ Fedora is a cutting-edge Linux distribution sponsored by Red Hat. It is well-kno
 
 Fedora is ideal if you want access to **the latest technologies, programming tools, and software innovations**. It is especially suited for developers, testers, and Linux enthusiasts who enjoy exploring new features while maintaining a secure and stable environment.
 
-[⬅ Back to Home](linux.md)
+[⬅ Back to Home](index.md)

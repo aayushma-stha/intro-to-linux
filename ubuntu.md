@@ -30,4 +30,4 @@ Ubuntu comes with a user-friendly interface and pre-installed software that make
 
 Ubuntu is an excellent choice if you want a **user-friendly, reliable, and well-supported Linux system**. It works well for beginners, developers, and enterprise users alike. With regular updates, long-term support versions, and a large community, Ubuntu provides a stable and secure environment for desktops, servers, and cloud deployments.
 
-[← Back to Home](linux.md)
+[← Back to Home](index.md)

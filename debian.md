@@ -26,4 +26,4 @@ Debian is one of the oldest and most respected Linux distributions. It is widely
 
 Debian is an excellent choice if you want a system that is **reliable over the long term**, can run critical applications without frequent crashes, and is backed by a large community. Its independence from other distributions also ensures that it has a unique ecosystem with a wide range of software.
 
-[⬅ Back to Home](linux.md)
+[⬅ Back to Home](index.md)
